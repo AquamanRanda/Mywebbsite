@@ -1,6 +1,4 @@
 # Mywebbsite
 
 
-This is Starting website !
-
-Future to be a Blog site 
+This is My website Future to be a Good blog site.
